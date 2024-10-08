@@ -1,4 +1,4 @@
-Hello I'm Machine.
+//conflict is solved now.
 #include <stdio.h>
 #include <stdlib.h>
 
